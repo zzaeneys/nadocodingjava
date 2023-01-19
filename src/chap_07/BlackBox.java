@@ -12,6 +12,7 @@ public class BlackBox {
     BlackBox() {
         System.out.println("기본 생성자 호출");
     }
+
     // 메소드
     void autoReport() {
         if (canAutoReport) {
